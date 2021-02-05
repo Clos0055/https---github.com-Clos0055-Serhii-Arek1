@@ -32,4 +32,15 @@ body, html {
 }
 
 .w3-wide {letter-spacing: 10px;}
-.w3-hover-opacity {cursor: pointer;}
+.w3-hover-opacity {
+  cursor: pointer;
+  width:100%
+}
+
+.w3-display-middle {
+  white-space: nowrap;
+}
+
+.w3-row-padding {
+  margin:0 -16px 8px -16px;
+}
