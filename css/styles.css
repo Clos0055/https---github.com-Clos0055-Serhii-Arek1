@@ -44,3 +44,7 @@ body, html {
 .w3-row-padding {
   margin:0 -16px 8px -16px;
 }
+
+.fa {
+  display: inline;
+}
